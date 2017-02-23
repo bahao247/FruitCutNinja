@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/TestScenes/FruitCutNinja.unity
+  isLoaded: 1
+  isActive: 1
